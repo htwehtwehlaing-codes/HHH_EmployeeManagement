@@ -15,7 +15,7 @@ This is a full-stack CRUD app using:
 💡 How to Run
 
 Clone or download this repository
-Open HHH_EmployeeManagement.sln in Visual Studio 2022 (for API) and Visual Code
+Open HHH_EmployeeManagement.sln in Visual Studio 2022 (for API) and Visual Studio Code
 📦 Prerequisites
  ✅ .NET SDK 8+
  ✅ Node.js & npm 
