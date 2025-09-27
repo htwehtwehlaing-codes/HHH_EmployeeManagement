@@ -1,4 +1,5 @@
-# Employee Management System
+# Employee Management System [NET Core Web API (backend), Angular (frontend)]
+
 This is a full-stack CRUD app using:
 - .NET Core Web API (backend)
 - Angular (frontend)
